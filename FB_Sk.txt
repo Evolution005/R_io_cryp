@@ -4,19 +4,19 @@
   "facebook_interstitial_ad_id": "2155305097999781_2155305917999699",
   "facebook_native_ad_id": "2155305097999781_2155305974666360",
   "admob_appopen_ad_id": [
-    ""
+    "/22798352804,22805009155/HPEE_com.messager.link.tips_OpenApp"
   ],
   "admob_banner_ad_id": [
-""
+"/22798352804,22805009155/HPEE_com.messager.link.tips_banner"
   ],
   "admob_bottom_native_ad_id": [
-""
+"/22798352804,22805009155/HPEE_com.messager.link.tips_native"
   ],
   "admob_interstitial_ad_id": [
-""
+"/22798352804,22805009155/HPEE_com.messager.link.tips_Interstitial"
   ],
   "admob_native_ad_id": [
-""
+"/22798352804,22805009155/HPEE_com.messager.link.tips_native"
   ],
   "ads_type": "facebook",
   "admob_reward_ad_id": "",
