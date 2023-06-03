@@ -4,19 +4,19 @@
   "facebook_interstitial_ad_id": "616044597126354_616045530459594",
   "facebook_native_ad_id": "616044597126354_616045610459586",
   "admob_appopen_ad_id": [
-    ""
+    "/22191932014/Adharlink_Appx_Open"
   ],
   "admob_banner_ad_id": [
-""
+"/22191932014/Adharlink_Appx_Banner"
   ],
   "admob_bottom_native_ad_id": [
-""
+"/22191932014/Adharlink_Appx_Native"
   ],
   "admob_interstitial_ad_id": [
-""
+"/22191932014/Adharlink_Appx_Inter"
   ],
   "admob_native_ad_id": [
-""
+"/22191932014/Adharlink_Appx_Native"
   ],
   "ads_type": "facebook",
   "admob_reward_ad_id": "",
