@@ -22,7 +22,7 @@
   "admob_reward_ad_id": "",
   "unity_ad_id": "",
   "bottom_ads_type": "nativebanner",
-  "ads_click": 0,
+  "ads_click": 2,
   "back_click": 0,
   "native_page_wise": 0,
   "reward_ad_type": "admob",
